@@ -56,7 +56,7 @@
     <img alt="github contribution grid snake animation" src="./github-contribution-grid-snake.svg">
   </picture>
 </p>
-### ⟨ ⟩ RANDOM DEV QUOTE:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="28" /> RANDOM DEV QUOTE:
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random Dev Quote" />
 </p>
@@ -72,4 +72,4 @@ Today, the sun rises at **06:00** and sets at **18:00**.
 
 ---
 *This README file is generated dynamically!*
-*Last refresh: Thu, 03 Sep 2026 21:45:33 GMT*
+*Last refresh: Thu, 03 Sep 2026 21:48:15 GMT*

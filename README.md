@@ -1,4 +1,12 @@
-# Hi 👋, I'm Taniqur Rahman! 
+<p align="center">
+  <img src="./cover.png" alt="Taniqur Rahman Cover" width="100%" />
+</p>
+
+# Hi 👋, I'm Taniqur Rahman
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=007ACC&center=false&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Electrical+Engineering+Student+at+DUET;AI-Driven+Developer;Problem+Solver" alt="Typing SVG" />
+</p>
 
 - 🔭 I'm currently building **Full-Stack Web Engineering projects**.
 - 🌱 I'm currently mastering **React, Next.js, TypeScript, and Redux** for frontend development.
@@ -7,15 +15,13 @@
 - 💬 Ask me about **Next.js, TypeScript, Modular Backend Patterns, and AI-Driven Development**[cite: 1].
 - 🌐 Explore my journey through the **Programming Hero** curriculum.
 - 📫 Feel free to reach out via [LinkedIn](https://linkedin.com).
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=007ACC&center=false&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Electrical+Engineering+Student+at+DUET;AI-Driven+Developer;Problem+Solver" alt="Typing SVG" />
-</p>
+
 ### 🌐 CONNECT WITH ME ON SOCIALS:
 <p>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/taniq-codes">
+  <a href="https://github.com/taniq-codes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -56,4 +62,4 @@ Today, the sun rises at **06:00** and sets at **18:00**.
 
 ---
 *This README file is generated dynamically!*
-*Last refresh: Thu, 03 Sep 2026 21:14:48 GMT*
+*Last refresh: Thu, 03 Sep 2026 21:17:31 GMT*

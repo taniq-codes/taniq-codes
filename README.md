@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cover.png" alt="Taniqur Rahman Cover" width="100%" />
+  <img src="./image.png" alt="Taniqur Rahman Cover" width="100%" />
 </p>
 
 # Hi 👋, I'm Taniqur Rahman
@@ -62,4 +62,4 @@ Today, the sun rises at **06:00** and sets at **18:00**.
 
 ---
 *This README file is generated dynamically!*
-*Last refresh: Thu, 03 Sep 2026 21:32:34 GMT*
+*Last refresh: Thu, 03 Sep 2026 21:33:31 GMT*

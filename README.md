@@ -56,10 +56,20 @@
     <img alt="github contribution grid snake animation" src="./github-contribution-grid-snake.svg">
   </picture>
 </p>
+### ⟨ ⟩ RANDOM DEV QUOTE:
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random Dev Quote" />
+</p>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=taniq-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ### 🌤 Current Weather in Gazipur
 Currently, the weather is: **Clear**, **25**°C
 Today, the sun rises at **06:00** and sets at **18:00**.
 
 ---
 *This README file is generated dynamically!*
-*Last refresh: Thu, 03 Sep 2026 21:42:42 GMT*
+*Last refresh: Thu, 03 Sep 2026 21:45:33 GMT*

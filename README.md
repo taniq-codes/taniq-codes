@@ -46,7 +46,13 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
-### 📊 GITHUB STATISTICS & ANALYSIS:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> GITHUB STATISTICS & ANALYSIS:
+
+**GitHub Contributions:**
+<p align="left">
+  <img src="https://ghchart.rshah.org/40c463/taniq-codes" alt="Taniq's Github Contributions" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taniq-codes&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=a6a6a6&icon_color=007acc" alt="Taniq's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniq-codes&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=a6a6a6" alt="Top Languages" />
@@ -55,11 +61,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taniq-codes&theme=transparent&hide_border=true&title_color=white&text_color=a6a6a6" alt="GitHub Streak" />
 </p>
-
 ### 🌤 Current Weather in Gazipur
 Currently, the weather is: **Clear**, **25**°C
 Today, the sun rises at **06:00** and sets at **18:00**.
 
 ---
 *This README file is generated dynamically!*
-*Last refresh: Thu, 03 Sep 2026 21:33:31 GMT*
+*Last refresh: Thu, 03 Sep 2026 21:37:17 GMT*

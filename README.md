@@ -50,16 +50,11 @@
 
 **GitHub Contributions:**
 <p align="left">
-  <img src="https://ghchart.rshah.org/40c463/taniq-codes" alt="Taniq's Github Contributions" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taniq-codes&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=a6a6a6&icon_color=007acc" alt="Taniq's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniq-codes&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=a6a6a6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taniq-codes&theme=transparent&hide_border=true&title_color=white&text_color=a6a6a6" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="./github-contribution-grid-snake.svg">
+  </picture>
 </p>
 ### 🌤 Current Weather in Gazipur
 Currently, the weather is: **Clear**, **25**°C
@@ -67,4 +62,4 @@ Today, the sun rises at **06:00** and sets at **18:00**.
 
 ---
 *This README file is generated dynamically!*
-*Last refresh: Thu, 03 Sep 2026 21:37:17 GMT*
+*Last refresh: Thu, 03 Sep 2026 21:42:42 GMT*

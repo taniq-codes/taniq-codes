@@ -1,0 +1,25 @@
+{
+  "name": "taniq-codes",
+  "version": "1.0.0",
+  "description": "<!--\r **taniq-codes/taniq-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taniq-codes/taniq-codes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/taniq-codes/taniq-codes/issues"
+  },
+  "homepage": "https://github.com/taniq-codes/taniq-codes#readme",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.7.0"
+  }
+}

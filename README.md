@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="./image.png" alt="Taniqur Rahman Cover" width="100%" />
+  <img src="./image.png" alt="Md. Taniqur Rahman Cover" width="100%" />
 </p>
 
-# Hi 👋, I'm Taniqur Rahman
+# Hi 👋, I'm Md. Taniqur Rahman
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=007ACC&center=false&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Electrical+Engineering+Student+at+DUET;AI-Driven+Developer;Problem+Solver" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=24&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=✦+LIFELONG+LEARNER+%26+AI+ENTHUSIAST+✦;Full+Stack+Web+Developer;Electrical+Engineering+Student" alt="Typing SVG" />
 </p>
 
 - 🔭 I'm currently building **Full-Stack Web Engineering projects**.
 - 🌱 I'm currently mastering **React, Next.js, TypeScript, and Redux** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, and PostgreSQL** for the backend.
-- 🎯 My primary goal: Build production-ready web applications with **Role-Based Access Control (RBAC)** and integrated payment gateways[cite: 1].
+- 🎯 My primary goal: Build production-ready web applications with **Role-Based Access Control (RBAC)** and integrated payment gateways.
 - 💬 Ask me about **Next.js, TypeScript, Modular Backend Patterns, and AI-Driven Development**[cite: 1].
 - 🌐 Explore my journey through the **Programming Hero** curriculum.
-- 📫 Feel free to reach out via [LinkedIn](https://linkedin.com).
+- 📫 Reach me via Email: **md.taniq@gmail.com** or visit my **[Portfolio](https://taniq-dev.vercel.app)**.
 
 ### 🌐 CONNECT WITH ME ON SOCIALS:
 <p>
@@ -56,6 +56,7 @@
     <img alt="github contribution grid snake animation" src="./github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="28" /> RANDOM DEV QUOTE:
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Random Dev Quote" />
@@ -66,10 +67,11 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=taniq-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 ### 🌤 Current Weather in Gazipur
 Currently, the weather is: **Clear**, **25**°C
 Today, the sun rises at **06:00** and sets at **18:00**.
 
 ---
 *This README file is generated dynamically!*
-*Last refresh: Thu, 03 Sep 2026 21:48:15 GMT*
+*Last refresh: Fri, 04 Sep 2026 03:39:05 GMT*

@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Md. Taniqur Rahman
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=24&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=✦+LIFELONG+LEARNER+%26+AI+ENTHUSIAST+✦;Full+Stack+Web+Developer;Electrical+Engineering+Student" alt="Typing SVG" />
 </p>
 
@@ -74,4 +74,4 @@ Today, the sun rises at **06:00** and sets at **18:00**.
 
 ---
 *This README file is generated dynamically!*
-*Last refresh: Fri, 04 Sep 2026 03:39:05 GMT*
+*Last refresh: Fri, 04 Sep 2026 03:44:42 GMT*
